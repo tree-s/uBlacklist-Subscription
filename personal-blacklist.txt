@@ -1,1 +1,3 @@
 *://*.pinterest.*/*
+*://www.pinterest.ca/*
+*://www.pinterest.com/*
